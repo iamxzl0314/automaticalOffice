@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------------------
+Time: 2023-06-13 15:36:51.845288
+School/System: DCSPX
+更新内容：
+Concourse 是新产品，添加到大表中，ID为：#000933，Data Location为:Outside Firewall
+Enterprise FT 是新产品，添加到大表中，ID为：#000934，Data Location为:Outside Firewall
+Exam Wizard 数据已存在！Data Location由“Outside Firewall”变更为了:BBBBBB
+ManageXR 是新产品，添加到大表中，ID为：#000935，Data Location为:AAAA
+Nintendo Switch Online 数据已存在！只有一个学校/系统在使用该条数据，Data Location由“USA”变更为了:CHINA，无需重新再起一行
+Out of the Ark Music 数据已经存在，且Data Location没有发生变化，只需要更新原表其他内容
+Strawbees Classroom 是新产品，添加到大表中，ID为：#000936，Data Location为:Outside Firewall
+Widgit Pro 数据已经存在，且Data Location没有发生变化，只需要更新原表其他内容
+Perplexity.ai 是新产品，添加到大表中，ID为：#000937，Data Location为:Outside Firewall
+Poe.com 是新产品，添加到大表中，ID为：#000938，Data Location为:Outside Firewall
+---------------------------------------------------------------------------------------------------------------
+
